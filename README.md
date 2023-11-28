@@ -32,7 +32,7 @@
 <p align="left">
     I'm Arta Khosravi, a cosmology graduate with an M.Sc. degree, passionate about combining cosmology and astrophysics with computational methods, especially machine learning.<br><br>
     - 🔭 I’m currently working on: using ML methods to find accretion efficiency in SMBHs in AGNs in high redshifts.<br>
-    - 📚 I'm currently learning: ML, mySQL, DL, and Julia.<br>
+    - 🌱 I'm currently learning: ML, mySQL, DL, and Julia.<br>
     - 📫 How to reach me:  <a href="artakh10@gmail.com" target="_blank">artakh10@gmail.com
   </a> <br>
     - 📄 Know about my experiences: <a href="artakh10.github.io" target="_blank">artakh10.github.io  </a>
