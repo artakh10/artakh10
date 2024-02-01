@@ -1,6 +1,5 @@
-###<div align="center">
-  ###<img height="150" src="https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif"  />
-###</div>
+
+<h1 align="center">Hey there, I'm Arta 👋</h1>
 
 ###
 
@@ -12,16 +11,12 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
-
-###
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=artakh10.artakh10&"  />
 </div>
 
 ###
 
-<h1 align="center">Hey there, I'm Arta 👋</h1>
 
 ###
 
