@@ -6,7 +6,7 @@
 
 <p align="left">
     - 👋 Hi there! I'm Arta Khosravi.<br>
-    - 💫 I'm a cosmology graduate with an M.Sc. degree, passionate about combining cosmology and astrophysics with computational methods.<br>
+    - 💫 I'm an M.Sc graduate of Gravitation and Cosmology.<br>
 <!--     - 🔭 I’m currently working on using ML methods to find the accretion efficiency of SMBHs in AGNs with high redshifts.<br> -->
     - 🌱 I'm learning about ML, MCMC, and DL.<br>
     - 📫 You can reach me on <a href="artakh10@gmail.com" target="_blank">artakh10@gmail.com</a> <br>
