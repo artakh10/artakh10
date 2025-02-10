@@ -13,3 +13,4 @@
     - 📄 You can also learn more about me on <a href="artakh10.github.io" target="_blank">artakh10.github.io  </a>
 </p>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
