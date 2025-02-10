@@ -13,4 +13,4 @@
     - 📄 You can also learn more about me on <a href="artakh10.github.io" target="_blank">artakh10.github.io  </a>
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=artakh10)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=artakh10&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
